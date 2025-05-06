@@ -1,80 +1,118 @@
-a, e, i, o, u
-+aa, ae, ua, au, eo, uo, ai, ea, ia
-g, k, l, m, n, p, th, v
-+kk, ll, nn 
+# Gol-Ka'a
 
-Aulak thala kaua gamala'
+Goli'ath
+
+From Hawai'ian
+* th -> soft t
+* rising tone
+* tree -> chree
+* drill -> jrill
+* drop terminal t/d from consonant clusters
+* split th to d & t
+
+phrases:
+* "try wait"
+* "ass why"
+* "if can"
+
+> a e i o u
+> +aa ae ua au eo uo ai ea ia
+> g k l m n p th v
+
+A'ulak thala ka'u'a gamala
 “Hunt the herd one animal at a time,” goliath proverb of patience.[1]
 
-Elika kukanath mali kothek, naulae kukanath mali anemakua
+Elika kukanath mali kothek, na'ula'e kukanath mali anemaku'a
 "Fast goats provide drink, slow goats provide food." A turn of phrase that meant to hurry up.[1]
 
 Gath
 a word to add emphasis with no direct translation.[1]
 
-Gol ilakae kathana kulia
+Gol ilaka'e kathana kuli'a
 the goliath version of "mind your own business" which directly translated to "make sure your spear shaft is straight."[1]
 
-Gol maula kae
+Gol ma'ula ka'e
 a polite apology or concession to someone who bested you which means "You have exceeded me."[1]
 
-Goli Lenamaka nae
+Goli Lenamaka na'e
 a warning of attention, translated as "keep your antlers up."[1]
 
-Kauma nau emaka nauth
+Ka'uma na'u emaka na'uth
 "The mountain doesn't climb itself," a goliath proverb of encouragement in one's effort.[1]
 
-Kavaki kae lilio...
-"May Kavaki grant that..." often shortened to "Kavalio..." was a plead to their prime deity, Kavaki.[1]
+Kavaki ka'e lili'o...
+"May Kavaki grant that..." often shortened to "Kavali'o..." was a plead to their prime deity, Kavaki.[1]
 
-Kuli ananaka kulae aulaka
+Kuli ananaka kula'e a'ulaka
 "My heart is in my head," an exclamation of excitement and anticipation origination from the blood rushing sensation [1]
 
 Kuli gumuatha goli kanakath
 a promise of teamwork or empathetically backing one up that translates to "my shoulder is at your back." [1]
 
-Kuthalam gailek, naua namamek thanea
+Kuthalam ga'ilek, na'u'a namamek thane'a
 "Respect the width, but don't fear the height," a goliath proverb of refocus that referred to focusing on the width of the ledge you're standing on rather than the distance to what's below it.[1]
 
-Lothakal lanae lulakamana
+Lothakal lana'e lulakamana
 "an elk in a berry bush," typically used to describe something too good to be true.[1]
 
-Thaaval
+Tha'aval
 an all-purpose goliath curse that translates to "rotten carcass."[1]
 
-Volok-thea
+Volok-the'a
 a shunning used as punishment for criminals.[8]
 
 Volok-kanu
 a less severe shunning used as punishment for lesser crimes.[8]
 
+> +ll, nn, r, y
 
+## Gods
 Kavaki
-Kuliak
+Kuli'ak
 Manethak
-Naki-Uthai
-Theleya
+Naki-Utha'i
+Theleya??? Thele'a
 Vanua
 
-Male Names: Aukan, Eglath, Gauthak, Ilikan, Keothi, Lo-Kag, Maveith, Meavoi, Thotham, Vimak.
-Female Names: Gae-Al, Kuori, Manneo, Nalla, Orilo, Paavu, Pethani, Thalai, Uthal, Vaunea.
+Male Names: 
+A'ukan
+Eglath
+Ga'uthak
+Ilikan
+Ke'othi
+Lo-Kag
+Mave'ith
+Me'avo'i
+Thotham
+Vimak
+
+Female Names: 
+Ga'e-Al
+Ku'ori??? Ku'o'i
+Man'neo
+Nalla
+Orilo??? O'ilo
+Pa'avu
+Pethani
+Thala'i
+Uthal
+Va'une
 
 Akala
-Ethavio
-Thuliana
+Ethavi'o
+Thuli'ana
 Kothi
-Kathaal
+Katha'al
 Nakelath
-Ithikea
-Ulia
-Keothi
+Ithike'a
+Uli'a
+Ke'othi
 Thella-lu
 Kalithini
-Uthanikalai
-Kaelao
-Anamoaka
+Uthanikala'i
+Ka'ela'o
+Anamo'aka
 Vimak
 Kunikithi
-Mualio
-Raurekk
+Mu'ali'o
 Kulagath
