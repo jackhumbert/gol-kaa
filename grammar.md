@@ -5,26 +5,26 @@ Person | Object | Subject | Possessive Object | Possessive Subject
 First  | `kul`  | `ke`    | `kuli`           | `kule`
 Other  | `gol`  | `ge`    | `goli`           | `gole`
 
-## `-ath` | plural
+## `-ath` plural
 
 |||||
 ---|---|---|---
 `kukan-`  | goat        | `kukanath` | goats
 `kanak-`  | support     | `kanakath` | supports
 
-## `-'a`  | possessive adj to pronoun
+## `-'a` possessive adj to pronoun
 
 |||||
 ---|---|---|---
 `kuli`    | my          | `kuli'a`   | mine
 
-## `-m`   | "be like"
+## `-m` "be like"
 
 |||||
 ---|---|---|---
 `kuthala` | community   | `kuthalam` | respect
 
-## `-aka` | "thing that does"
+## `-aka` "thing that does"
 
 |||||
 ---|---|---|---
@@ -36,32 +36,32 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `l-`      | to stab     | `ilaka`    | spear
 `kan-`    | to be under | `kanaka`   | supporter
 
-## `-ak`  | root-to-verb
+## `-ak` root-to-verb
 
 |||||
 ---|---|---|---
 `ol-`     | to hunt     | `olak`     | hunt
 
-## `ku-`  | concept of helping/supporting
+## `ku-` concept of helping/supporting
 
 |||||
 ---|---|---|---
 `kanath`  | underlings  | `kunanath` | goat
 `thala`   | herd        | `kuthala`  | community
 
-## `ka-`  | "properties of"
+## `ka-` "properties of"
 
 |||||
 ---|---|---|---
 `than-`   | fall        | `kathana` | straight
 
-## `e'a`  | "cause of"
+## `e'a` "cause of"
 
 |||||
 ---|---|---|---
 `than-`   | fall        | `thane'a` | height
 
-## `le-`  | "from an animal"
+## `le-` "from an animal"
 
 |||||
 ---|---|---|---

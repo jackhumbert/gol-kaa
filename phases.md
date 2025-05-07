@@ -1,60 +1,60 @@
 # Gol-Kaa
 
-* `aulak thala kaua gamala`
-* `olak thala ko'a gamala`
+## aulak thala kaua gamala
+`olak thala ko'a gamala`
 * “Hunt the herd one animal at a time,” goliath proverb of patience.
 
-* `elika kukanath mali kothek, naulae kukanath mali anemakua`
-* `elika kukanath mali kothek, nole kukanath mali anemaku'a`
+## elika kukanath mali kothek, naulae kukanath mali anemakua
+`elika kukanath mali kothek, nole kukanath mali anemaku'a`
 * "Fast goats provide drink, slow goats provide food." A turn of phrase that meant to hurry up.
 
-* `gath`
+## gath
 * a word to add emphasis with no direct translation.
-* 
-* `gol ilakae kathana kulia`
-* `goli laka kathana kuli'a`
+
+## gol ilakae kathana kulia
+`goli laka kathana kuli'a`
 * "make sure your spear shaft is straight" the goliath version of "mind your own business"
 
-* `gol maula kae`
-* `gol mola ke`
+## gol maula kae
+`gol mola ke`
 * a polite apology or concession to someone who bested you which means "You have exceeded me."
 
-* `goli lenamaka nae`
-* `goli lenamaka ne`
+## goli lenamaka nae
+`goli lenamaka ne`
 * "keep your antlers up" a warning of attention
 
-* `kauma nau emaka nauth`
-* `koma no emaka noth`
+## kauma nau emaka nauth
+`koma no emaka noth`
 * "The mountain doesnt climb itself," a goliath proverb of encouragement in ones effort.
 
-* `kavaki kae lilio...`
-* `kavaki ke lili'o...`
+## kavaki kae lilio...
+`kavaki ke lili'o...`
 * "May Kavaki grant that..." often shortened to "Kavalio..." was a plead to their prime deity, Kavaki.
 
-* `kuli ananaka kulae aulaka`
-* `kuli ananaka kule olaka`
+## kuli ananaka kulae aulaka
+`kuli ananaka kule olaka`
 * "My heart is in my head," an exclamation of excitement and anticipation origination from the blood rushing sensation 
 
-* `kuli gumuatha goli kanakath`
-* `kuli gumu'atha goli kanakath`
+## kuli gumuatha goli kanakath
+`kuli gumu'atha goli kanakath`
 * "my shoulder is at your back", a promise of teamwork or empathetically backing one up
 
-* `kuthalam gailek, naua namamek thanea`
-* `kuthalam galek, no'a namamek thane'a`
+## kuthalam gailek, naua namamek thanea
+`kuthalam galek, no'a namamek thane'a`
 * "Respect the width, but dont fear the height," a goliath proverb of refocus that referred to focusing on the width of the ledge youre standing on rather than the distance to whats below it.
 
-* `lothakal lanae lulakamana`
-* `lothakal lane lulakamana`
+## lothakal lanae lulakamana
+`lothakal lane lulakamana`
 * "an elk in a berry bush," typically used to describe something too good to be true.
 
-* `thaaval`
-* `tha'aval`
+## thaaval
+`tha'aval`
 * an all-purpose goliath curse that translates to "rotten carcass."
 
-* `volok-thea`
-* `volok-the'a`
+## volok-thea
+`volok-the'a`
 * a shunning used as punishment for criminals.
 
-* `volok-kanu`
-* `volok-kanu`
+## volok-kanu
+`volok-kanu`
 * a less severe shunning used as punishment for lesser crimes.
