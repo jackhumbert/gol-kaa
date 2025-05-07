@@ -12,17 +12,30 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `kukan-`  | goat        | `kukanath` | goats
 `kanak-`  | support     | `kanakath` | supports
 
-## `-'a` possessive adj to pronoun
+## `-atha` collection
+
+|||||
+---|---|---|---
+`gumu-`   | grip?       | `gumu'atha` | strength
+
+## `-'a` possessive adj to pronoun? "thing from"
 
 |||||
 ---|---|---|---
 `kuli`    | my          | `kuli'a`   | mine
+`anemaku` | livestock   | `anemaku'a`| meat
 
 ## `-m` "be like"
 
 |||||
 ---|---|---|---
 `kuthala` | community   | `kuthalam` | respect
+
+<!-- ## `-ku'a` "thing from"
+
+|||||
+---|---|---|---
+`anema-`  | animal      | `anemaku'a`| meat -->
 
 ## `-aka` "thing that does"
 
@@ -42,12 +55,13 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 ---|---|---|---
 `ol-`     | to hunt     | `olak`     | hunt
 
-## `ku-` concept of helping/supporting
+## `-ku-` concept of helping/supporting/proving
 
 |||||
 ---|---|---|---
 `kanath`  | underlings  | `kunanath` | goat
 `thala`   | herd        | `kuthala`  | community
+`anema`   | animal      | `anemaku`  | livestock
 
 ## `ka-` "properties of"
 
@@ -60,12 +74,25 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 |||||
 ---|---|---|---
 `than-`   | fall        | `thane'a` | height
+`th-`     | bad         | `the'a`   | evil
 
-## `le-` "from an animal"
+## `le-` "from an animal" / "belongs to"
 
 |||||
 ---|---|---|---
 `namaka`  | club        | `lenamaka` | antlers 
+
+## `-amek` "negative feelings about"?
+
+|||||
+---|---|---|---
+`nam-`    | to bash     | `namamek`  | fear
+
+## `-u` verb-to-adj
+
+|||||
+---|---|---|---
+`kan-`    | to be under | `kanu`     | lesser
 
 ## Nouns
 
@@ -84,6 +111,7 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `anemaku'a` | food/meat
 `thala`     | herd/group
 `gamala`    | animal/beast
+`volok`     | punishement
 
 ## Verbs
 

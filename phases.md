@@ -9,6 +9,7 @@
 * "Fast goats provide drink, slow goats provide food." A turn of phrase that meant to hurry up.
 
 ## gath
+`gath`
 * a word to add emphasis with no direct translation.
 
 ## gol ilakae kathana kulia
