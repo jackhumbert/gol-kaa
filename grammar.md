@@ -46,7 +46,7 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `nam-`    | to bash     | `namaka`   | club  
 `anan-`   | to love     | `ananaka`  | heart
 `ol-`     | to hunt     | `olaka`    | head/intelligence
-`l-`      | to stab     | `ilaka`    | spear
+`il-`     | to stab     | `ilaka`    | spear
 `kan-`    | to be under | `kanaka`   | supporter
 
 ## `-ak` root-to-verb
