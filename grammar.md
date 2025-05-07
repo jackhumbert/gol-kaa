@@ -7,26 +7,26 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 
 ## `-ath` | plural
 
-_|_|_|_
+|||||
 ---|---|---|---
 `kukan-`  | goat        | `kukanath` | goats
 `kanak-`  | support     | `kanakath` | supports
 
 ## `-'a`  | possessive adj to pronoun
 
-_|_|_|_
+|||||
 ---|---|---|---
 `kuli`    | my          | `kuli'a`   | mine
 
 ## `-m`   | "be like"
 
-_|_|_|_
+|||||
 ---|---|---|---
 `kuthala` | community   | `kuthalam` | respect
 
 ## `-aka` | "thing that does"
 
-_|_|_|_
+|||||
 ---|---|---|---
 `em-`     | to exist    | `emaka`    | existing/alone
 `lenam-`  | to ram      | `lenamaka` | antlers  
@@ -38,37 +38,39 @@ _|_|_|_
 
 ## `-ak`  | root-to-verb
 
-_|_|_|_
+|||||
 ---|---|---|---
 `ol-`     | to hunt     | `olak`     | hunt
 
 ## `ku-`  | concept of helping/supporting
 
-_|_|_|_
+|||||
 ---|---|---|---
 `kanath`  | underlings  | `kunanath` | goat
 `thala`   | herd        | `kuthala`  | community
 
 ## `ka-`  | "properties of"
 
-_|_|_|_
+|||||
 ---|---|---|---
 `than-`   | fall        | `kathana` | straight
 
 ## `e'a`  | "cause of"
 
-_|_|_|_
+|||||
 ---|---|---|---
 `than-`   | fall        | `thane'a` | height
 
 ## `le-`  | "from an animal"
 
-_|_|_|_
+|||||
 ---|---|---|---
 `namaka`  | club        | `lenamaka` | antlers 
 
 ## Nouns
 
+|||
+---|---
 `koma`      | mountain
 `kukanath`  | goats
 `ananaka`   | heart
@@ -85,6 +87,8 @@ _|_|_|_
 
 ## Verbs
 
+|||
+---|---
 `mali`      | provide
 `mola`      | defeat
 `noth`      | climb
@@ -94,4 +98,6 @@ _|_|_|_
 
 ## Conjunctions
 
+|||
+---|---
 `no'a` | but?
