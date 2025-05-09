@@ -1,11 +1,11 @@
 # Gol-Kaa
 
 ## aulak thala kaua gamala
-`olak thala ko'a gamala`
+`a'ulak thala ka'ua gamala`
 * “Hunt the herd one animal at a time,” goliath proverb of patience.
 
 ## elika kukanath mali kothek, naulae kukanath mali anemakua
-`elika kukanath mali kothek, nole kukanath mali anemaku'a`
+`elika kukanath mali kothek, naula'e kukanath mali anemaku'a`
 * "Fast goats provide drink, slow goats provide food." A turn of phrase that meant to hurry up.
 
 ## gath
@@ -13,27 +13,27 @@
 * a word to add emphasis with no direct translation.
 
 ## gol ilakae kathana kulia
-`goli laka kathana kuli'a`
+`gol ilaka'e kathana kuli'a`
 * "make sure your spear shaft is straight" the goliath version of "mind your own business"
 
 ## gol maula kae
-`gol mola ke`
+`gol ma'ula ka'e`
 * a polite apology or concession to someone who bested you which means "You have exceeded me."
 
 ## goli lenamaka nae
-`goli lenamaka ne`
+`goli lenamaka na'e`
 * "keep your antlers up" a warning of attention
 
 ## kauma nau emaka nauth
-`koma no emaka noth`
+`ka'uma na'u emaka na'uth`
 * "The mountain doesnt climb itself," a goliath proverb of encouragement in ones effort.
 
 ## kavaki kae lilio...
-`kavaki ke lili'o...`
+`kavaki ka'e lili'o...`
 * "May Kavaki grant that..." often shortened to "Kavalio..." was a plead to their prime deity, Kavaki.
 
 ## kuli ananaka kulae aulaka
-`kuli ananaka kule olaka`
+`kuli ananaka kula'e a'ulaka`
 * "My heart is in my head," an exclamation of excitement and anticipation origination from the blood rushing sensation 
 
 ## kuli gumuatha goli kanakath
@@ -41,11 +41,11 @@
 * "my shoulder is at your back", a promise of teamwork or empathetically backing one up
 
 ## kuthalam gailek, naua namamek thanea
-`kuthalam galek, no'a namamek thane'a`
+`kuthalam ga'ilek, na'ua namamek thane'a`
 * "Respect the width, but dont fear the height," a goliath proverb of refocus that referred to focusing on the width of the ledge youre standing on rather than the distance to whats below it.
 
 ## lothakal lanae lulakamana
-`lothakal lane lulakamana`
+`lothakal lana'e lulakamana`
 * "an elk in a berry bush," typically used to describe something too good to be true.
 
 ## thaaval
