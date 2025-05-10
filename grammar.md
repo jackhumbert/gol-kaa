@@ -2,8 +2,8 @@
 
 Person | Object | Subject | Possessive Object | Possessive Subject
 ---|---|---|---|---
-First  | `kul`  | `ke`    | `kuli`           | `kule`
-Other  | `gol`  | `ge`    | `goli`           | `gole`
+First  | `kul`  | `kae`    | `kuli`            | `kulae`
+Other  | `gol`  | `gae`    | `goli`            | `golae`
 
 ## `-ath` [plural](https://tolkiengateway.net/wiki/-ath)
 
@@ -16,14 +16,14 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 
 |||||
 ---|---|---|---
-`gumu-`   | grip?       | `gumu'atha` | strength
+`gumu-`   | grip?       | `gumuatha` | strength
 
-## `-'a` possessive adj to pronoun? "thing from"
+## `-a` possessive adj to pronoun? "thing from"
 
 |||||
 ---|---|---|---
-`kuli`    | my          | `kuli'a`   | mine
-`anemaku` | livestock   | `anemaku'a`| meat
+`kuli`    | my          | `kulia`   | mine
+`anemaku` | livestock   | `anemakua`| meat
 
 ## `-m` "be like"
 
@@ -31,11 +31,11 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 ---|---|---|---
 `kuthala` | community   | `kuthalam` | respect
 
-<!-- ## `-ku'a` "thing from"
+<!-- ## `-kua` "thing from"
 
 |||||
 ---|---|---|---
-`anema-`  | animal      | `anemaku'a`| meat -->
+`anema-`  | animal      | `anemakua`| meat -->
 
 ## `-aka` "thing that does"
 
@@ -45,7 +45,7 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `lenam-`  | to ram      | `lenamaka` | antlers  
 `nam-`    | to bash     | `namaka`   | club  
 `anan-`   | to love     | `ananaka`  | heart
-`ol-`     | to hunt     | `olaka`    | head/intelligence
+`aul-`    | to hunt     | `aulaka`   | head/intelligence
 `il-`     | to stab     | `ilaka`    | spear
 `kan-`    | to be under | `kanaka`   | supporter
 
@@ -53,7 +53,7 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 
 |||||
 ---|---|---|---
-`ol-`     | to hunt     | `olak`     | hunt
+`aul-`    | to hunt     | `aulak`    | hunt
 
 ## `-ku-` concept of helping/supporting/proving
 
@@ -69,12 +69,12 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 ---|---|---|---
 `than-`   | fall        | `kathana` | straight
 
-## `e'a` "cause of"
+## `ea` "cause of"
 
 |||||
 ---|---|---|---
-`than-`   | fall        | `thane'a` | height
-`th-`     | bad         | `the'a`   | evil
+`than-`   | fall        | `thanea` | height
+`th-`     | bad         | `thea`   | evil
 
 ## `le-` "from an animal" / "belongs to"
 
@@ -101,14 +101,14 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 `koma`      | mountain
 `kukanath`  | goats
 `ananaka`   | heart
-`olaka`     | head
+`aulaka`    | head
 `lothakal`  | elk
 `kanakath`  | supporters
-`gumu'atha` | shoulder/strength
+`gumuatha`  | shoulder/strength
 `galek`     | width/edge
-`thane'a`   | height/fall
+`thanea`    | height/fall
 `kothek`    | drink/milk
-`anemaku'a` | food/meat
+`anemakua`  | food/meat
 `thala`     | herd/group
 `gamala`    | animal/beast
 `volok`     | punishement
@@ -118,8 +118,8 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 |||
 ---|---
 `mali`      | provide
-`mola`      | defeat
-`noth`      | climb
+`maula`     | defeat
+`nauth`     | climb
 `kuthalam`  | respect
 `namamek`   | (don't?) fear
 `lilio`     | grant/give
@@ -128,4 +128,4 @@ Other  | `gol`  | `ge`    | `goli`           | `gole`
 
 |||
 ---|---
-`no'a` | but?
+`naua` | but?

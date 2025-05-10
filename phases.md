@@ -49,7 +49,7 @@
 * "an elk in a berry bush," typically used to describe something too good to be true.
 
 ## thaaval
-`tha'aval`
+`thaaval`
 * an all-purpose goliath curse that translates to "rotten carcass."
 
 ## volok-thea

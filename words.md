@@ -1,48 +1,48 @@
-Gol-Kaa | Gol-Ka'a | Common
----|---|---
-ananaka     | ananaka     | heart
-anemakua    | anemako     | food
-aulak       | aulak       | hunt?
-aulaka      | aulaka      | head
-elika       | elika       | fast
-emaka       | emaka       | climb
-gamala      | gamala      | at-one-time?
-gailek      | galek       | width
-gol         | gol         | you
-goli        | goli        | your
-gol-kaa     | gol-ka'a    | you-speak
-goliath     | goli'ath    | 
-gumuatha    | gumu'atha   | shoulder? shoulder-supported
-ilakae      | lake        | ensure
-kae         | ke          | me
-kanakath    | kanakath    | back
-kaua        | ko'a        | herd?
-kanu        | kanu        | lesser
-kathana     | kathana     | spear
-kauma       | koma        | mountain
-kothek      | kothek      | drink
-kukanath    | kukanath    | goat
-kulae       | kule        | my, object signifier
-kuli        | kuli        | my
-kulia       | kuli'a      | straight
-kuthalam    | kuthalam    | respect
-lanae       | lane        | residing
-lenamaka    | lenamaka    | antlers
-lilio       | lilio       | grant
-lothakal    | lothakal    | elk
-lulakamana  | lulakamana  | berrybush
-mali        | mali        | provide
-nae         | ne          | up
-namamek     | namamek     | fear
-nau         | no          | doesnt
-naua        | no'a        | dont
-naulae      | nole        | slow
-nauth       | noth        | itself
-thaaval     | tha'aval    | rotten carcass
-thanea      | thanea      | height
-thea        | the'a       | greater
-thala       | thala       | one of?
-volok       | volok       | punishment
+Gol-Kaa | Common
+---|---
+ananaka     | heart
+anemakua    | food
+aulak       | hunt?
+aulaka      | head
+elika       | fast
+emaka       | climb
+gamala      | at-one-time?
+gailek      | width
+gol         | you
+goli        | your
+gol-kaa     | you-speak
+goliath     | 
+gumuatha    | shoulder? shoulder-supported
+ilakae      | ensure
+kae         | me
+kanakath    | back
+kaua        | herd?
+kanu        | lesser
+kathana     | spear
+kauma       | mountain
+kothek      | drink
+kukanath    | goat
+kulae       | my, object signifier
+kuli        | my
+kulia       | straight
+kuthalam    | respect
+lanae       | residing
+lenamaka    | antlers
+lilio       | grant
+lothakal    | elk
+lulakamana  | berrybush
+mali        | provide
+nae         | up
+namamek     | fear
+nau         | doesnt
+naua        | dont
+naulae      | slow
+nauth       | itself
+thaaval     | rotten carcass
+thanea      | height
+thea        | greater
+thala       | one of?
+volok       | punishment
 
 ## Predictions
 

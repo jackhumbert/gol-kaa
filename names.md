@@ -6,7 +6,7 @@
 * Kuliak
 * Manethak
 * Naki-Uthai
-* Theleya??? Thele'a?
+* Theleya
 * Vanua
 
 ## Male Names
@@ -25,15 +25,15 @@
 ## Female Names
 
 * Gae-Al
-* Kuori??? Koli?
+* Kuori
 * Manneo
 * Nalla
-* Orilo??? Olilo?
+* Orilo
 * Paavu
 * Pethani
 * Thalai
 * Uthal
-* Vaune* 
+* Vaune
 
 # Other names
 

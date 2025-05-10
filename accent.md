@@ -1,6 +1,7 @@
 # Gol-Ka'a Accent
 
-From Hawaiian
+## Hawaiian
+
 * th -> soft t
 * rising tone
 * tree -> chree
@@ -8,7 +9,7 @@ From Hawaiian
 * drop terminal t/d from consonant clusters
 * split th to d & t
 
-phrases:
+Phrases:
 * "try wait"
 * "ass why"
 * "if can"
