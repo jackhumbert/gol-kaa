@@ -5,7 +5,7 @@ Person | Object | Subject | Possessive Object | Possessive Subject
 First  | `kul`  | `ke`    | `kuli`           | `kule`
 Other  | `gol`  | `ge`    | `goli`           | `gole`
 
-## `-ath` plural
+## `-ath` [plural](https://tolkiengateway.net/wiki/-ath)
 
 |||||
 ---|---|---|---
